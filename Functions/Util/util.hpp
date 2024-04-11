@@ -1,0 +1,25 @@
+#pragma once
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <float.h>
+#include <string.h>
+#include <iostream>
+#include <vector>
+#include <string>
+#include <math.h>
+#include <chrono>
+#include <list>
+#include <limits>
+#include <fstream>
+#include <sstream>
+#include <numeric>
+#include <algorithm>
+#include <set>
+#include <unordered_set>
+#include <unordered_map>
+#include <utility>
+#include <queue>
+#include <climits>
+#include <ctime>
+#include <regex>
