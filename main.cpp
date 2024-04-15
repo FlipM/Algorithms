@@ -1,5 +1,7 @@
-#include <iostream>
-#include "util.hpp"
+#include "Functions/Util/Util.hpp"
+#include "Functions/Functions.hpp"
+
+
 using namespace std;
 
 int main() {
